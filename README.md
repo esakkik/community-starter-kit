@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is behaviour bot for github
 
 ## What it does
+Bot that manages your github repositories
 
-FEATURES PLACEHOLDER
 
 ## Getting started
 
